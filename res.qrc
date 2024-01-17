@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/icon_ansy.svg</file>
+        <file>res/icon_net.svg</file>
+        <file>res/icon_select.svg</file>
+        <file>res/icon_start.svg</file>
+        <file>res/icon_stop.svg</file>
+        <file>res/qrob.ico</file>
+        <file>res/qrob.png</file>
+        <file>res/icon_clear.svg</file>
+        <file>res/icon_about.svg</file>
+        <file>res/icon_data.svg</file>
+    </qresource>
+</RCC>
